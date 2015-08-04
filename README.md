@@ -1,4 +1,4 @@
-#PROJETOS COMS ESTRUTURA DE DADOS
+#PROJETOS COM ESTRUTURA DE DADOS
 
 Projetos Desenvolvidos em 2012 - 3º Sem de Lic. em Computação
 Na disciplina de Estrutura de Dados utilizando Liguagem "C".
